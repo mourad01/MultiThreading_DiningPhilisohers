@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MultiThreading_DiningPhilisohers.iml" filepath="$PROJECT_DIR$/MultiThreading_DiningPhilisohers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading_DiningPhilosohers.iml" filepath="$PROJECT_DIR$/MultiThreading_DiningPhilosohers.iml" />
     </modules>
   </component>
 </project>
